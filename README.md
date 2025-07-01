@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently studying in the AI department at Chung-Ang univ.
 - 🌱 I’m currently learning Artificial Intelligence.
-- 📚 My research interest: Text-to-Speech Synthesis!
+- 📚 My research interest: Computer Vision, Vision-Language Model!
