@@ -1,5 +1,5 @@
 ### Hello and welcome to my GitHub 👋
 
-- 🔭 I’m currently studying in the AI department at Chung-Ang univ.
-- 🌱 I’m currently learning Artificial Intelligence.
-- 📚 My research interest: Computer Vision, Vision-Language Model, and Speech Synthesis!
+- 🎓 B.S. in Artificial Intelligence, Chung-Ang University (Feb. 2026)
+- 🔭 Interested in Vision-Language Models — spatial reasoning, visual grounding, and their limitations
+- 🚀 Exploring Video Understanding & Embodied AI
