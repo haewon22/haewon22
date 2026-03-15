@@ -1,5 +1,4 @@
 ## Hi there, I'm Haewon Jeong 👋
----
 
 ## 🎓 Education
 - **Chung-Ang University**, B.S. in Artificial Intelligence  
