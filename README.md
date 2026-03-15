@@ -1,10 +1,4 @@
 ## Hi there, I'm Haewon Jeong 👋
-
-I'm interested in **Vision-Language Understanding**,  
-and **Embodied AI / Vision-Language-Action (VLA)**.
-
-</div>
-
 ---
 
 ## 🎓 Education
