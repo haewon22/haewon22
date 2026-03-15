@@ -1,9 +1,6 @@
 ## Hi there, I'm Haewon Jeong 👋
 
-B.S. in Artificial Intelligence, Chung-Ang University  
-Mar. 2022 – Feb. 2026
-
-Interested in **Vision-Language Understanding**,  
+I'm interested in **Vision-Language Understanding**,  
 and **Embodied AI / Vision-Language-Action (VLA)**.
 
 </div>
