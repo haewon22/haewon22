@@ -9,8 +9,8 @@
 - Multimodal Perception
 - Embodied AI / Vision-Language-Action (VLA)
 
-## 🛠️ Workshop
-- **2026.03.30 – 2026.03.31 | OMX-AI Imitation Inference Workshop**
+## 📚 Workshop
+- **2026.03.30 – 2026.03.31 | 🦾 OMX-AI Imitation Inference Workshop**
   <sub>Organized by **PINKLAB**</sub>    
   Built an embodied AI pipeline with LeRobot and ACT on an OMX-AI leader–follower robotic arm setup. Collected a 50-episode pick-and-place dataset, trained an ACT policy on Google Colab A100, and tested inference with the trained model.   
   [![Notion](https://img.shields.io/badge/Notion-Workshop%20Notes-000000?logo=notion&logoColor=white)](https://blossom-surgeon-a74.notion.site/333080fca98e800fa845e23f5cd7e58f?source=copy_link)
