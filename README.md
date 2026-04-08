@@ -55,4 +55,3 @@
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-haewon22-181717?logo=github&logoColor=white)](https://github.com/haewon22)    
 [![Email](https://img.shields.io/badge/Email-Contact_Me-O?style=flat-square&logo=gmail&logoColor=white)](mailto:haewon20430@naver.com)   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haewon22)](https://solved.ac/profile/haewon22)    
